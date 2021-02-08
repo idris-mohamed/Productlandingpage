@@ -1,0 +1,66 @@
+nav{
+	text-align: center;
+}
+body{
+	background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2020/10/iPhone-12-Pro-Light-Wallpaper-4.jpg?quality=82&strip=all&w=473);
+    color: white;
+
+
+}
+#how-it-works {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+#how-it-works > iframe {
+    max-width: 560px;
+    width: 100%;
+    }
+#nav-bar{
+    position: top;
+
+}
+header {
+    position: fixed;
+    top: 0;
+    min-height: 75px;
+    padding: 0px 20px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: transparent;
+
+}
+
+
+.logo {
+    width: 60vw;
+}
+
+ #hero{
+ 	text-align: center;
+ }
+
+#header-img {
+
+    height: 100px;
+    width: 300px;
+}
+ul,li{
+	text-align: left;
+	color: white;
+}
+a:-webkit-any-link {
+    color: white;
+ }
+ #pricing{
+ text-align: left;
+ }
+ .product{
+  margin: 0 auto;
+  width: 70%;
+  padding: 1em;
+  border: 1px white;
+  border-radius: 1em;
+  border-color: white;	
+ }
+
